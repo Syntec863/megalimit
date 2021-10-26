@@ -1,3 +1,7 @@
+# Mega Limit Bypasser
+
+[⬇Download⬇](https://github.com/Syntec863/megalimit/releases/tag/v1.0)
+
 # How To Use:
 1. First, find the URL of the file you want to download from Mega, highlight the address and copy it.
 
